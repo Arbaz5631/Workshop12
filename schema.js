@@ -1,3 +1,4 @@
+//schema 
 const mongoose=require("mongoose");
 const jsonSchema=new mongoose.Schema({
     name:{
