@@ -1,3 +1,4 @@
+// mongoDb connections.
 const mongoose=require("mongoose");
 mongoose.connect("mongodb+srv://Info:Info@cluster0.seli7.mongodb.net/JsonData?retryWrites=true&w=majority",{useNewUrlParser:true,
 useCreateIndex:true,
